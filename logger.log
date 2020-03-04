@@ -1,0 +1,11 @@
+DB_ACCESS: 2020/03/05 01:52:36 [UPLOAD_COURSE_LOGO] Successful. Url: /api/upload/image | Host: [::1]:57144 | Message: uploaded
+DB_ACCESS: 2020/03/05 01:56:15 [DELETE_LOGO_OF_COURSE] Successful. Url: /api/upload/image | Host: [::1]:57206 | Message: Ok
+DB_ACCESS: 2020/03/05 02:14:03 [UPLOAD_USER_AVATAR] Successful. Url: /api/upload/image | Host: [::1]:57472 | Message: Successfully uploaded
+DB_ACCESS: 2020/03/05 02:16:10 [UPLOAD_USER_AVATAR] Successful. Url: /api/upload/image | Host: [::1]:57504 | Message: Successfully uploaded
+DB_ACCESS: 2020/03/05 02:18:33 [DELETE_USER_AVATAR] Successful. Url: /api/upload/image | Host: [::1]:57544 | Message: Successfully deleted
+DB_ACCESS: 2020/03/05 02:19:05 [HEALTH_CHECK] Successful. Url: /api/check | Host: [::1]:57560 | Message: just checking
+DB_ACCESS: 2020/03/05 02:19:49 [HEALTH_CHECK] Successful. Url: /api/check | Host: [::1]:57560 | Message: just checking
+DB_ACCESS: 2020/03/05 02:19:54 [HEALTH_CHECK] Successful. Url: /api/check | Host: [::1]:57572 | Message: just checking
+DB_ACCESS: 2020/03/05 02:19:55 [HEALTH_CHECK] Successful. Url: /api/check | Host: [::1]:57572 | Message: just checking
+DB_ACCESS: 2020/03/05 02:19:56 [HEALTH_CHECK] Successful. Url: /api/check | Host: [::1]:57572 | Message: just checking
+DB_ACCESS: 2020/03/05 02:20:13 [HEALTH_CHECK] Successful. Url: /api/check | Host: [::1]:57580 | Message: just checking
