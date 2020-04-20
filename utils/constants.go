@@ -3,24 +3,19 @@ package utils
 const (
 	Folder_where_avatars_are_stored   = "upload_images"
 	Folder_where_documents_are_stored = "upload_documents"
-)
 
-const (
-	Number_of_characters_in_an_image_name = 50
-)
-
-const (
 	DbNameCourseDocuments = "course_documents"
-)
 
-const (
 	Instructor = "Instructor"
 	Student    = "Student"
-)
 
-const (
 	Course   = "course"
 	HomePage = "home"
+
+	Username = "username"
+	Rule = "rule"
+
+	Number_of_characters_in_an_image_name = 50
 )
 
 var Resize_Values = map[string][]int{

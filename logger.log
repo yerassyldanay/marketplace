@@ -9,3 +9,4 @@ DB_ACCESS: 2020/03/05 02:19:54 [HEALTH_CHECK] Successful. Url: /api/check | Host
 DB_ACCESS: 2020/03/05 02:19:55 [HEALTH_CHECK] Successful. Url: /api/check | Host: [::1]:57572 | Message: just checking
 DB_ACCESS: 2020/03/05 02:19:56 [HEALTH_CHECK] Successful. Url: /api/check | Host: [::1]:57572 | Message: just checking
 DB_ACCESS: 2020/03/05 02:20:13 [HEALTH_CHECK] Successful. Url: /api/check | Host: [::1]:57580 | Message: just checking
+DB_ACCESS: 2020/04/20 12:39:56 [DB_CONNECT] Error occurred while calling a function. Message: dial tcp 10.10.4.27:6003: connect: connection timed out

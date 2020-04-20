@@ -46,6 +46,9 @@ func main() {
 
 	router.HandleFunc("/api/check", controller.Health_check_).Methods("GET")
 
+	router.HandleFunc("/ws", func(w http.ResponseWriter, r *http.Request) {
+		fmt.Println(r.URL.Query())
+	}).Schemes("ws")
 	/*
 		SECURITY
 		this part sets function to a session_id (session token) validation
